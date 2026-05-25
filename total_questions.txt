@@ -13,3 +13,8 @@ Linked List Cycle
 Invert Binary Tree
 Valid Palindrome
 First Bad Version
+Missing Number
+Reverse String
+Move Zeroes
+Majority Element
+Fibonacci Number
