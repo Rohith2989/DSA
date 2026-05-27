@@ -18,3 +18,8 @@ Reverse String
 Move Zeroes
 Majority Element
 Fibonacci Number
+Single Number
+Intersection of Two Arrays II
+Power of Three
+Fizz Buzz
+Pascal's Triangle
