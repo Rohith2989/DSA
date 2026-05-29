@@ -28,3 +28,8 @@ Longest Common Prefix
 Symmetric Tree
 Maximum Depth of Binary Tree
 Palindrome Number
+Remove Duplicates from Sorted Array
+Plus One
+Merge Sorted Array
+Sqrt(x)
+Path Sum
