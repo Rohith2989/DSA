@@ -33,3 +33,8 @@ Plus One
 Merge Sorted Array
 Sqrt(x)
 Path Sum
+Length of Last Word
+Add Binary
+Same Tree
+Balanced Binary Tree
+Minimum Depth of Binary Tree
